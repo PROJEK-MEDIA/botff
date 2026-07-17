@@ -36,7 +36,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # ═══════════════════════════════════════════
 # TELEGRAM BOT CONFIG
 # ═══════════════════════════════════════════
-BOT_TOKEN = "8820855015:AAFNUwZ92GNEjDXnvirtHkUlBeDvnIq2ON8"
+BOT_TOKEN = "8885313876:AAF2n49W-75C1Jk1WANtj1jwyA-l-WpHDis"
 CHAT_ID = "8818676309"
 TELEGRAM_API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
